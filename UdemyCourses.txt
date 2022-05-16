@@ -1,0 +1,83 @@
+gs.praveenkumar5@gmail.com---Krishna@14
+---------------------------------------
+1. Spring and Hibernate for Beginners
+2. Java Programming for complete Beginners
+3. Java8 New Features - Simplified
+4. Docker and Kubernetes - Complete Guide
+5. AWS Certified Solutions Architect Associate Introduction
+6. The Data Science Course 2022  - Complete Data Science guide
+7. The Python Mega Course 2022 - Build 10 Realtime applications
+8. R Programming for statistics and DataScience 2022
+9. Python for Datascience and Machine Learning Bootcamp
+10. Learn DevOps - The complete kubernetes course
+11. Build Responsive Real World Websites using HTML and CSS
+12. Spring Core - Spring framework4 and springboot
+
+praveenvbce@gmail.com -- Krishna@14
+----------------------------------
+1. Spring Security Fundamentals
+2. Jenkins Zero to Hero
+3. Master Microservices with Springboot and Spring Cloud
+4. Angular - The Complete Guide
+5. React Js, NodeJs, Express and MongoDb
+6. Ultimate AWS Certified Solutions Architect Associate
+7. NodeJs - The complete Guide
+8. RestFul WebServices , Java, Springboot , Spring MVC 
+9. Selenium web driver and Java
+10. MongoDb - The Complegte Developer Guide 2022
+11. Git- The Complete Guide
+
+cts.praveengodla@gmail.com -- Krishna@14
+----------------------------------------
+1. Spring Framework in Easy Steps.
+2. Apache Kafka for absolute beginners v3.
+Source: https://github.com/simplesteph?tab=repositories
+
+
+
+
+
+
+
+
+
+Java Stack
+----------
+1. Spring Framework in Easy Steps.
+2. Spring Security Fundamentals
+3. Spring Core - Spring framework4 and springboot
+4. Spring and Hibernate for Beginners
+5. Java Programming for complete Beginners
+6. Java8 New Features - Simplified
+7. Master Microservices with Springboot and Spring Cloud
+8. RestFul WebServices , Java, Springboot , Spring MVC 
+
+
+
+DevOps and Cloud
+----------------
+1. Docker and Kubernetes - Complete Guide
+2. AWS Certified Solutions Architect Associate Introduction
+3. Learn DevOps - The complete kubernetes course
+4. Jenkins Zero to Hero
+5. AWS Certified Solutions Architect Associate Introduction
+6. Ultimate AWS Certified Solutions Architect Associate
+8. Git- The Complete Guide
+
+
+Data Science and Machine Learning
+---------------------------------
+1. The Data Science Course 2022  - Complete Data Science guide
+2. The Python Mega Course 2022 - Build 10 Realtime applications
+3. R Programming for statistics and DataScience 2022
+4. Python for Datascience and Machine Learning Bootcamp
+
+User Interface
+--------------
+1. Angular - The Complete Guide
+2. React Js, NodeJs, Express and MongoDb
+3. NodeJs - The complete Guide
+4. MongoDb - The Complegte Developer Guide 2022
+
+
+
